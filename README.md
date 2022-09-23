@@ -1,2 +1,2 @@
 # Differential-Low-Power-Phase-Locked-Loop-in-45-nm-STSCL-Logic
-Masters Project - This is a Subthreshold Source Coupled Logic based Phase Locked Loop. The power supply was reduced to 500mV and every component was made to be differential. The STSCL PLL locks at around 1.2GHz with a reference of 150MHz while consuming 372uW. The phase noise performance was 102 dBc.Hz at 1MHz offset and a final lock time of 900ns
+Masters Project - This is a Subthreshold Source Coupled Logic based Phase Locked Loop. The power supply was reduced to 500mV and every component was made to be differential. The STSCL PLL locks at around 1.2GHz with a reference of 150MHz while consuming 372uW. The phase noise performance was 102 dBc/Hz at 1MHz offset and a final lock time of 900ns
